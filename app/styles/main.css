@@ -1,0 +1,29 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li input[type="checkbox"] {
+  position: relative;
+  bottom: 1px;
+}
+
+#game {
+  background-color: #ababab;
+  border-radius: 5px;
+  padding: 10px;
+}
